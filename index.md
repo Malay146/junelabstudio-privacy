@@ -1,8 +1,8 @@
-# Brand Lab — Privacy Policy
+# Brand Lab by Junelab Studio — Privacy Policy
 
 _Last updated: 9 November 2026_
 
-Brand Lab is a personal, single-user design tool built and run locally by Malay Patel. It is not a public app and has no other users.
+Brand Lab is a personal, single-user design tool built and run locally by Malay Patel (Junelab Studio, https://junelab.studio). It is not a public app and has no other users.
 
 ## What it accesses
 
